@@ -1,5 +1,5 @@
 # 💻 Verilog FPGA Arithmetic Logic Unit (ALU)
-/
+
 This project contains the Verilog HDL code for a simple **Arithmetic Logic Unit (ALU)**. The design was synthesized and tested on an **FPGA development board**, demonstrating essential principles of digital circuit design and hardware description languages.
 
 The ALU performs common operations based on a selection code and outputs the result to a **seven-segment display** while using LEDs to indicate status flags.
